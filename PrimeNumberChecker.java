@@ -1,6 +1,8 @@
 public class PrimeNumberChecker {
     public static void main(String[] args) {
-        int number = 32; // Hardcoded input number
+		// changed the hard coded file because thats what society told me to do?
+		// idk I am here because I like coding!
+        int number = 42; // Hardcoded input number
 
         boolean isPrime = true;
 
